@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="easy_green">#4cf552</color>
+    <color name="ic_launcher_triqui_background">#219EBC</color>
+    <color name="medium_yellow">#edf250</color>
+    <color name="menu_orange">#fc7723</color>
+    <color name="red_hard">#f25050</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Reto0 4</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Base.Theme.Reto4" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Reto4" parent="Base.Theme.Reto4"/>
+</resources>
